@@ -50,7 +50,7 @@ If Wi-Fi isn't available, the ESP32 creates a network called `ESP32-Radar`. Chan
 |---|---|---|
 | `SWEEP_ONE_WAY_MS` | 3000 | Sweep time, higher is smoother |
 | `SWEEP_MIN`, `SWEEP_MAX` | 15, 165 | Sweep limits in degrees |
-| `MAX_CM` | 200 | Radar range |
+| `MAX_CM` | 100 | Radar range |
 | `BUZZER_ALERT_CM` | 50 | Buzzer range, 0 for silence |
 | `FLIP_DISPLAY` | false | Mirrors the radar display |
 | `USE_OLED` | 1 | Set to 0 without a display |

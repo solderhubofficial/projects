@@ -45,7 +45,7 @@ const char* AP_PASS = "radar1234";
 const uint32_t SWEEP_ONE_WAY_MS = 3000;  // Higher = slower and smoother
 const int SWEEP_MIN = 15;                // degrees
 const int SWEEP_MAX = 165;               // degrees
-const float MAX_CM = 200;                // Radar's outer ring
+const float MAX_CM = 100;                // Radar's outer ring
 const bool FLIP_DISPLAY = false;         // true if left and right look swapped
 const float BUZZER_ALERT_CM = 50;        // Beeps inside this range, 0 = silent
 // --------------------------------
