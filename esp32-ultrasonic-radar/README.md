@@ -6,7 +6,7 @@ A sweeping ultrasonic radar built with an ESP32, HC-SR04 and SG90 servo. It show
 
 ![Finished radar build](images/esp32-radar-finished-build.webp)
 
-![Live radar dashboard](images/esp32-radar-live-dashboard.webp)
+![Live radar dashboard](images/esp32-radar-dashboard-100cm.webp)
 
 ## Parts
 
